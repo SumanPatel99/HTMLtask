@@ -1,0 +1,41 @@
+@media screen and (max-width:559px){
+    .container{width: 100%;}
+     .frow h1{font-size: 47px;}
+     .frow p{font-size: 16px;}
+     .bg-img1{height: 232px;}
+     .magnify{ margin: -417px 0 0 45px; height: 84% !important;}
+     .character{ margin: 49px 0 0 62px; height: 120%!important;}
+     .bg-img2 img{margin-left: 71px;}
+     .lapi{margin-left: -304px;}
+     .business{ width: 59%; margin-top: 57px 0 0 128px;}
+     .formdiv{padding-left: 2px;}
+     .bordercarousel{padding: 37px; width: 78%; margin-left: 37px;}
+     .fa-quote-left{padding: 14px;}
+     footer{width: 100%; margin-top: -17px;}
+     .con{margin-left: -49px;}
+     .qu{margin: 0 2px 0 -32px;}
+     .navbtn{margin-left: 19px;}
+     .read{width: 37%; margin-left: 96px;}
+     .quick a{margin-left: 6px;}
+     .quick li{margin-left: 21px;}
+}
+@media screen and (max-width:736px){
+    .container{width: 100%;}
+    .magnify{margin-left: 57px; height: 81%; margin-top: -408px;}
+    .bg-img2 img{margin-left: 111px; margin-top: 78px; width: 47%;}
+    .lapi{margin-left: -360px;}
+    .business{margin: -161px 0 0 117px;}
+    .qu{margin-left: -30px;}
+    .read{width: 37%; margin-left: 115px;}
+    .frow h1, .frow p{ text-align: center !important;}
+
+}
+
+@media screen and (min-width:812){
+    .container{width: 100%;}
+    .bg-img2 img{margin-left: 100px;}
+    .magnify{ margin-top: -427px; height: 119%;  width: 113%;}
+    .read{width: 37%;  margin-left: 86px;}
+    .frow p, .frow h1{text-align: center !important;}
+
+}
